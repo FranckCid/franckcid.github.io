@@ -3,7 +3,7 @@ layout: post
 title: Como instalar SDL2, SDL2_image, SDL2_ttf e SDL2_mixer no Linux Debian/Ubuntu
 ---
 
-Quando comecei com o desenvolvimento de jogos usando SDL2, uma das minhas maiores dificuldades era instalar a lib de desenvolvimento no Linux, como a maioria dos tutoriais eram dominados pelo Windows, tive que passa um bom tempo dando uma bela procurada no nosso querido Stack Overflow, para agilizar as coisas, criei este guia rápido.
+Quando comecei com o desenvolvimento de jogos usando **SDL2**, uma das minhas maiores dificuldades era instalar a **lib de desenvolvimento** no **Linux**, como a maioria dos tutoriais eram dominados pelo **Windows**, tive que passa um bom tempo dando uma bela procurada no nosso querido **Stack Overflow**, para agilizar as coisas, criei este guia rápido.
 
 ## Instalando o SDL2(Simple DirectMedia 2.0)
 
@@ -11,7 +11,7 @@ Quando comecei com o desenvolvimento de jogos usando SDL2, uma das minhas maiore
 
 Abra o terminal e escreva os comandos:
 
-```bash
+```
 sudo apt-get update
 sudo apt-get install libsdl2-dev
 ```
