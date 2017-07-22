@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Faço técnico de mecatrônica e estudo programação nas horas vagas.
+Músico, metido a artista e ex-karateca.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[franciscocidadehomemjunior@gmail.com](mailto:franciscocidadehomemjunior@gmail.com)
