@@ -11,10 +11,10 @@ Quando comecei com o desenvolvimento de jogos usando SDL2, uma das minhas maiore
 
 Abra o terminal e escreva os comandos:
 
-<addr>
+```
 sudo apt-get update
 sudo apt-get install libsdl2-dev
-</addr>
+```
 
 ## Instalando libs adicionais:
 
@@ -23,42 +23,42 @@ Além da lib principal, há também outras libs que auxiliam o desenvolvimento, 
 ### SDL2_image
 
 Permite carregar arquivos de imagem como JPG e PNG.
-<addr>
+```
 sudo apt-get update
 sudo apt-get install libsdl2_image-dev</addr>
-</addr>
+```
 
 ### SDL2_mixer
 
 Permite carregar arquivos de audio.
-<addr>
+```
 sudo apt-get update
 sudo apt-get install libsdl2_mixer-dev
-</addr>
+```
 
 ### SDL2_ttf
 
 Permite carregar fontes e gerar textos.
-<addr>
+```
 sudo apt-get update
 sudo apt-get install libsdl2_ttf-dev
-</addr>
+```
 
 ## Incluir em arquivos C/C++
 
-<addr>
+```
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
 #include <SDL2/SDL_mixer.h>
-</addr>
+```
 
 ## Link no compilador g++
 
 Utilizando o compilador g++ com as flags de cada lib:
-<addr>
+```
 g++ seu_arquivo.cpp -o nome_do_executavel -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
-</addr>
+```
 
 
 Qualquer dúvida me mande um email ou uma mensagem no Twitter e lhe responderei assim que possível.
