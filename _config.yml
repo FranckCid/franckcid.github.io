@@ -9,7 +9,7 @@ name: Franck Cid
 description: std::make_unique<website>(*this);
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/fotodeperfil.png
+avatar: /images/fotodeperfil.png
 
 # Show future posts
 future: true
