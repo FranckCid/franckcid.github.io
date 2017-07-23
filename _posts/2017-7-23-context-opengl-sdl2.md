@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Incapaz de criar contexto - SDL2 e OpenGLtags:
+title: Incapaz de criar contexto - SDL2 e OpenGL
+tags:
 - glew
 - gl
 - lib
